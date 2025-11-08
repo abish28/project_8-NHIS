@@ -47,5 +47,7 @@ Deliverables:
 Dockerfile for each service (e.g., web server, application server).
 Docker Compose scripts to manage multi-container setups.
 Instructions on how to build, run, and deploy containers.
+
+
 Conclusion
 This project will provide a multi-faceted view into the job market through extensive data analysis and a recommendation system, encapsulated within a robust Docker environment for easy deployment and scaling. The deliverables will include detailed reports, predictive models, and a user-friendly web application, offering valuable insights and assistance to job seekers and industry analysts alike
